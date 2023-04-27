@@ -8,7 +8,7 @@
 
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(26, 27, 30, 0.7), rgba(53, 55, 66, 0.7)), url(images/pic2.jpg);
+    background-image: linear-gradient(rgba(26, 27, 30, 0.7), rgba(53, 55, 66, 0.7)), url(images/pic2..png);
     position: relative;
     background-size: cover;
     background-position: center;
@@ -354,7 +354,7 @@ p {
 .cta {
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(26, 26, 29, 0.7), rgba(53, 55, 66, 0.7)), url(images/cam4.png);
+    background-image: linear-gradient(rgba(26, 26, 29, 0.7), rgba(53, 55, 66, 0.7)), url(images/Aboutt.png);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -414,7 +414,7 @@ p {
 .About-header{
     height: 40vh;
     width: 100%;
-    background-image: linear-gradient(rgba(26, 26, 29, 0.7),rgba(53, 55, 66, 0.7)),url(images/cam4.png);
+    background-image: linear-gradient(rgba(22, 22, 23, 0.7),rgba(43, 44, 48, 0.7)),url(images/header.png);
     background-position: center;
     background-size: cover;
     text-align: center;
