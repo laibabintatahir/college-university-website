@@ -1,6 +1,10 @@
 # College/University Website
 
 Welcome to the official repository for the College/University website project! This website is built using HTML and CSS, focusing on creating a comprehensive and user-friendly online platform for an educational institution.
+![Alt text](image.png)
+.
+.
+![Alt text](image-1.png)
 
 ## Table of Contents
 
@@ -17,7 +21,7 @@ To explore the website locally, follow these steps:
 git clone https://github.com/laibabintatahir/college-university-website.git
 
 
-2. Navigate to the project directory:
+2. Navigate to the project directory
 
 3. Open any of the HTML files in your preferred web browser to view different pages of the website.
 
